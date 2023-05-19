@@ -1,4 +1,4 @@
-# Currency Predictions
+# Currency Predictions - Machine Learning Basics
 
 What the project below wants to show, is that the exchange rates of three currencies - EUR, USD and GBP
 are indirectly linked and the current rate of each of them will interact with the rates of the other two.
